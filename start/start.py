@@ -1,0 +1,11 @@
+import turtle
+turtle.forward(120)
+turtle.right(144)
+turtle.forward(120)
+turtle.right(144)
+turtle.forward(120)
+turtle.right(144)
+turtle.forward(120)
+turtle.right(144)
+turtle.forward(120)
+turtle.right(144)
